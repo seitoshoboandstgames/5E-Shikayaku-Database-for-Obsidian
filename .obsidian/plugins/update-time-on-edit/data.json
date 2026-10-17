@@ -8,13 +8,13 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "README.md": "cef0ff4da9db82f77e373125e15d39314b04f11cd7a77fec391a62049f0b0fbb",
-    "5E私家訳DB/基本モジュール/SRD5.2/クラス/バード.md": "b265c2c28f4c5718968b8d94b0fc257ec1634833abc1e81cefd1fe493559e1a4",
+    "README.md": "1ee976ef8d5007cced24ff066ab0f7035d540b5a38bf35126cfc678fab85ee42",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス/バード.md": "a5abb6f70a6b7d7a7d7eea2037ed75eccd99b2a46093188192cbca1bbb241461",
     "5E私家訳DB/基本モジュール/SRD5.2/クラス/バーバリアン.md": "ee48efe8b7c2768848ae52109db314505dbf034c7e81b84b0f4205ad5ca1207f",
     "5E私家訳DB/基本モジュール/SRD5.2/クラス/クレリック.md": "9f3974e254fae73a4047526c7441140240cf6b3f5bd00eaf56f74803a6aeb3ce",
     "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/5.特技.md": "60d4bdf5357e8bf41208ea48d6eca0e19167b497d18252d78966f649cc94ab3b",
-    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/4.キャラクターの起源.md": "5b00b0c772aaf2002a1c982abab33b0fb60b9c06ce55decf92ce56e744364929",
-    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/3.クラス👷.md": "63146bc5fa8566263b97105b00334e56136c84f6b80508745f04ff617b7dcc57",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/4.キャラクターの起源.md": "c2442308ac4072dece0647e2f902b0e9e7b4da943d0ab73e5b28e41d5875f452",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/3.クラス👷.md": "78d2691c9d6d4c72bed668c4cba8734460e15f6df73b7ed461ef8521e92e4c6c",
     "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/2.キャラクター作成.md": "75a3097277b58102edadee056f5ef2fdec992992a4a52c1a24b630283733ade8",
     "5E私家訳DB/基本モジュール/SRD5.2/特技/起源特技/《技能習熟》.md": "f3afad058987169159643cfad0b54325c6775767c6b51cf3ca0349b189267fc3",
     "5E私家訳DB/基本モジュール/SRD5.2/特技/起源特技/《凶暴な戦士》.md": "e79587d572abc66c9491a9864084a031be524899736515649770078b92a7da41",
@@ -35,6 +35,19 @@
     "5E私家訳DB/基本モジュール/SRD5.2/特技/偉業の証特技/《夜の精霊の証》.md": "6d8abe3e885a3f1e168cf5bbe83925e954cf38bf384c034c1742e36f1ab8d17f",
     "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/生命の領域.md": "cea952b6920c2547a9326c7f3ae85503e89ba8834753d9152a0c5f0bcd4d0ca4",
     "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/知の楽派.md": "b60b052dbba790acee2123b8aa25007949374317058bdf76c70efe49c79ca5b4",
-    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/狂戦士.md": "4fa20957a56d3e05b3207c5a911bd9566733fa805612fae95ca019a385ecab4f"
+    "5E私家訳DB/基本モジュール/SRD5.2/背景/侍祭.md": "1225891cead2d9c5d81c7d0dc150592bfd20e427b104cb121f496c674012f0d9",
+    "5E私家訳DB/基本モジュール/SRD5.2/背景/犯罪者.md": "a37245a564634103d5323518735d2208b8211a09359c5d56094657f8b0ead8e7",
+    "5E私家訳DB/基本モジュール/SRD5.2/背景/賢者.md": "07eadf13f1b2404e1e927258335b85abeccbc731ab16bd8d7922e5610035eece",
+    "5E私家訳DB/基本モジュール/SRD5.2/背景/兵士.md": "e8ce50d45bc23df49ee00d6ceda0407bc86a128b931ab008923e164938ebe9c3",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ドラゴンボーン.md": "7132eff28b80e4197903baef2a320690c839414ae97352f06507000ba435fe46",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ドワーフ.md": "95a5ea38f1fd3565aa53d7c6d12c7c89e966910b4688a4acc73517dda41f33db",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/エルフ.md": "cb03a9a1a7d7d4c7fc88d4b9baf84e3e36dc7bc4100fda008a3f9b0e36cfad59",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ノーム.md": "9800b61efcff5a093914ad90523a3e4e865a02c5d05c2c23525a209ba64380ee",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ゴライアス.md": "2523b5f8a9d65dc200c491cdd5621c94fb9e66980947b5f504d9ede66ad83c11",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ハーフリング.md": "cd06320679179e6a9a9fbfe1c2bb30ce607dcd99a9d90f26bd5519d9a87dd0ab",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ヒューマン.md": "e4278d80b3d8ccf2186c022fdc7c9af0d3d087a59395aaa3a5e28490d395d836",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/オーク.md": "91b51152508d02b02f16eb86414a48199b06bc4f7cb0c6a30ac626da990215e6",
+    "5E私家訳DB/基本モジュール/SRD5.2/種族/ティーフリング.md": "db24892dd5e2c0fb7ee0cc8a95088d6ac19366c5de575a453e672a85145ce1dc",
+    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/狂戦士の道.md": "4fa20957a56d3e05b3207c5a911bd9566733fa805612fae95ca019a385ecab4f"
   }
 }
