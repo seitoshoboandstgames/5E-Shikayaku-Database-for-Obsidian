@@ -1,0 +1,1 @@
+# 5E-Shikayaku-Database-for-Obsidian
