@@ -61,7 +61,6 @@
   "ITS@@h4-font": "IPAex明朝",
   "ITS@@h5-font": "IPAex明朝",
   "ITS@@h6-font": "IPAex明朝",
-  "ITS@@default-font": "\"IPAex明朝\"",
   "ITS@@font-monospace": "\"IPAex明朝\"",
   "ITS@@comment-font": "''IPAex明朝\"",
   "ITS@@h3-size": 20,
@@ -115,5 +114,6 @@
   "ITS@@ITS-Table-Alt-Colors": "none",
   "ITS@@embed-dark-background": false,
   "ITS@@embed-clean": true,
-  "ITS@@embed-mini-headers": true
+  "ITS@@embed-mini-headers": true,
+  "ITS@@default-font": "\"IPAex明朝\""
 }

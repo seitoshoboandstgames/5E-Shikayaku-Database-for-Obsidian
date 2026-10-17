@@ -1,0 +1,12 @@
+filters:
+  and:
+    - データタイプ.containsAny("コアクラス")
+    - 出典文書.containsAny("SRD5.2")
+views:
+  - type: cards
+    name: ビュー
+    order:
+      - file.name
+      - システム
+      - データタイプ
+      - 出典文書

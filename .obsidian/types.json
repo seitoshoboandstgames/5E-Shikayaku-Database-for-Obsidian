@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Challengerate": "number",
-    "Monstertype": "multitext",
     "Size": "multitext",
     "Subrace": "multitext",
     "Alignment": "multitext",
@@ -24,7 +22,6 @@
     "魔法のアイテムの分類": "multitext",
     "同調": "multitext",
     "HP": "number",
-    "脅威度": "text",
-    "アート": "text"
+    "脅威度": "text"
   }
 }

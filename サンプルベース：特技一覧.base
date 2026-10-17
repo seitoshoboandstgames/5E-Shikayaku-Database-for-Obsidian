@@ -1,0 +1,11 @@
+filters:
+  and:
+    - データタイプ.containsAny("特技")
+views:
+  - type: cards
+    name: ビュー
+    order:
+      - file.name
+      - データタイプ
+      - システム
+      - 特技種別

@@ -1,8 +1,8 @@
 {
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
-  "accentColor": "#182039",
-  "textFontFamily": "IPAex明朝",
+  "accentColor": "#132353",
+  "textFontFamily": "源ノ角ゴシック JP,Noto Sans JP,IPAex明朝,Noto Serif JP,源ノ明朝",
   "baseFontSize": 14,
   "enabledCssSnippets": [],
   "showRibbon": true,
