@@ -1,0 +1,512 @@
+{
+  "monsters": [
+    [
+      "デーヴァ",
+      {
+        "layout": "BFRD",
+        "name": "デーヴァ",
+        "source": "BFRD",
+        "size": "中型",
+        "type": "セレスチャル(エンジェル)",
+        "subtype": " ",
+        "challenge": "脅威度10",
+        "ac": "17(外皮)",
+        "hp": 165,
+        "speed": "30㌳、飛行90㌳",
+        "stats": [
+          "+4",
+          "+4",
+          "+4",
+          "+3",
+          "+9",
+          "+9"
+        ],
+        "perception": 19,
+        "hide": 14,
+        "resistances": "エンジェルの抵抗力",
+        "immunities": "エンジェルの抵抗力",
+        "sense": "暗視120㌳",
+        "languages": "全て、テレパシー120㌳",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "エンジェルの抵抗力：",
+            "desc": "デーヴァは［光輝］ダメージと、魔法的でない攻撃による［殴打］、［刺突］、［斬撃］ダメージに対する抵抗を有する。加えて、デーヴァは消耗状態、魅了状態、恐怖状態に対する完全耐性を有する。"
+          },
+          {
+            "name": "エンジェルの知覚：",
+            "desc": "デーヴァは自身から30㌳以内にいる異形、セレスチャル、フィーンド、アンデッドの場所を正確に感知することができ、聖別された場所や物体、あるいは冒涜された場所や物体があればそれも感知することができる。"
+          },
+          {
+            "name": "エンジェルの武器：",
+            "desc": "デーヴァの武器攻撃は魔法的である。デーヴァがいずれかの武器でヒットを与えた時、その武器は追加で4d8［光輝］ダメージを与える(各攻撃の項目に反映済み)。"
+          },
+          {
+            "name": "不滅の存在の性質：",
+            "desc": "デーヴァは食べ物、水分、睡眠を必要としない。"
+          },
+          {
+            "name": "魔法抵抗：",
+            "desc": "デーヴァは呪文やその他の魔法的効果に対するセーヴに有利を得る。"
+          },
+          {
+            "name": "よみがえりの祈り：",
+            "desc": "デーヴァは自身の崇める神格に対して、殺されたクリーチャーの魂が安全に戻ってくるように10分間祈りを捧げることができる。その祈りが終わった時、デーヴァは死後24時間以内のクリーチャー1体に触れることで、クリーチャーをその最大ヒット・ポイントの半分のヒット・ポイントの状態で蘇生することができる。よみがえりの祈りは寿命で死んだクリーチャーを蘇生することはできず、欠損した体の部位を修復することもできない。この方法でこのデーヴァによって蘇生されたクリーチャーは、以後30日間はこのデーヴァによって再び蘇生してもらうことはできない。"
+          }
+        ],
+        "actions": [
+          {
+            "name": "複数回攻撃：",
+            "desc": "このデーヴァは3回の\"メイス\"攻撃を行う。",
+            "attack_bonus": 0
+          },
+          {
+            "name": "メイス：",
+            "desc": "***近接武器攻撃***：攻撃+8、間合い5㌳、目標１つ。***ヒット***：7(1d6＋4)［殴打］ダメージおよび18(4d8)［光輝］ダメージ。",
+            "attack_bonus": 8,
+            "damage_dice": "1d6",
+            "damage_bonus": 4
+          },
+          {
+            "name": "治癒の接触(3回／日)：",
+            "desc": "デーヴァは自身以外のクリーチャー１体に接触する。その目標は魔法的に20(4d8＋2)ヒット・ポイントを回復し、あらゆる呪い、病気、毒、盲目状態、聴覚喪失状態から解放される。"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "変身：",
+            "desc": "デーヴァは、サイズ分類が大型以下で脅威度が自身と同じかそれ未満の野獣または人型生物へ魔法的に変化するか、セレスチャルとしての元の形態に戻ることができる。デーヴァが着用または運搬しているあらゆる装備品は、デーヴァ自身と一緒に変化するか、新しい形態でも装備される(デーヴァがどちらか選択する)。デーヴァは死ぬと元の形態に戻る。新しい形態でも、\"エンジェルの抵抗力\"、\"エンジェルの知覚\"、\"不滅の存在の性質\"の特徴と、ヒット・ポイント、ヒット・ダイス、会話能力、習熟、【知力】、【判断力】、【魅力】値、およびこの\"変身\"のボーナス・アクションは保持される。それ以外のデータは新しい形態(クラス特徴や伝説的アクションは除く)のものに置き換えられる。",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "アボレス",
+      {
+        "layout": "BFRD",
+        "name": "アボレス",
+        "source": "BFRD",
+        "size": "大型",
+        "type": "異形",
+        "subtype": " ",
+        "challenge": "脅威度10",
+        "ac": "17(外皮)",
+        "hp": 165,
+        "speed": "10㌳、水泳40㌳",
+        "stats": [
+          "+5",
+          "-1",
+          "+6",
+          "+8",
+          "+6",
+          "+4"
+        ],
+        "hide": 9,
+        "perception": 20,
+        "resistances": "アボレスがセーヴに失敗した場合、代わりに成功したことにできる。",
+        "immunities": "［精神］",
+        "sense": "暗視120㌳",
+        "languages": "深淵語、テレパシー120㌳",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "異形の抵抗力：",
+            "desc": "アボレスは魅了状態、恐怖状態、麻痺状態、朦朧状態に対する抵抗を有し、自身の形態を変化させるような呪文や効果に対するセーヴに有利を得る。"
+          },
+          {
+            "name": "水陸両生：",
+            "desc": "アボレスは空気と水どちらも呼吸できる。"
+          },
+          {
+            "name": "伝説的抵抗力(3/日)：",
+            "desc": "アボレスがセーヴに失敗した場合、代わりに成功したことにできる。"
+          },
+          {
+            "name": "心を探るテレパシー：",
+            "desc": "アボレスが見ることのできるクリーチャーがテレパシーでアボレスと意思疎通をしたなら、アボレスはそのクリーチャーの最も強い願望を知る。"
+          },
+          {
+            "name": "天然痘：",
+            "desc": "罹患者の身体中で発生するぬるついた膿疱が特徴的な粘液痘は、アボレスに攻撃されたり、アボレスの粘液に接触したりしたクリーチャーが感染する病気である。この病気が治療されるまで、感染したクリーチャーは空気と水どちらでも呼吸でき、水中にいない限りHPを回復できず、水の外にいるか皮膚が湿っていない状態で1時間経過するごとに6(1d12)［酸］ダメージを受ける。24時間経過するごとに、感染したクリーチャーは難易度16の【魅力】セーヴを行わねばならない。クリーチャーがこのセーヴに失敗する度、そのクリーチャーはそれに病気を感染させたアボレスをより好意的に見るようになり、セーヴに3回失敗するとアボレスを信じきって護衛する奴隷になる。成功も失敗も、連続しているかは関係なしで3回そのセーヴ結果を得たなら、そのクリーチャーはもはやセーヴを行う必要がなく、その結果として(セーヴ3回失敗で)アボレスの奴隷となるか、(セーヴ3回成功で、感染してはいるが)自立性を保ったクリーチャーになる。粘液痘はヒール呪文またはそれに類する魔法でみ治療できる。"
+          },
+          {
+            "name": "ぬるぬるな皮膚：",
+            "desc": "アボレスはこの世のものとは思えないような粘液で覆われている。アボレスに触れるか5㌳以内でアボレスに近接攻撃をヒットさせたクリーチャーは難易度16の【耐久力】セーヴを行わねばならず、失敗すると粘液痘に感染する(\"粘液痘\"の特徴を参照のこと)。"
+          }
+        ],
+        "actions": [
+          {
+            "name": "複数回攻撃：",
+            "desc": "アボレスは「\"触手\"または\"精神の矢\"による攻撃」を合わせて3回行う。1つの目標に対して\"触手\"攻撃を2回以上ヒットさせた場合、その目標は難易度16の【耐久力】セーヴを行わねばならず、失敗すると粘液痘(粘液痘の特徴を参照のこと)に感染する。",
+            "attack_bonus": 0
+          },
+          {
+            "name": "触手：",
+            "desc": "***近接武器攻撃***：攻撃+9、間合い10㌳、目標１つ。***ヒット***：15(3d6+5)［殴打］ダメージ",
+            "attack_bonus": 9,
+            "damage_dice": "3d6",
+            "damage_bonus": 5
+          },
+          {
+            "name": "精神奔流(再チャージ5~6)：",
+            "desc": "アボレスは自身が見ることのでき、かつ60㌳以内にいるクリーチャー最大3体の精神を、そのアボレスが悠久の半生で得た無作為かつ恐ろしい記憶で氾濫させる。各目標は難易度16の【判断力】セーヴを行わねばならない。失敗すると49(14d6)ダメージを受け、それ自身の次のターンの開始時まで無力状態になり、その精神はイメージ、思考、記憶の奔流でふらふらにされる。成功したなら、そのクリーチャーは半分のダメージを受けるが、無力状態にはならない。"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null,
+            "desc": "アボレスは伝説的アクションを以下の選択肢から選んで3回行うことができる。伝説的アクションは1度に1つだけ使用でき、加えて他のクリーチャーのターンの終了時にのみ使用できる。アボレスは自身のターンの開始時に、消費した伝説的アクションを回復する。"
+          },
+          {
+            "name": "感知：",
+            "desc": "アボレスは自身から60㌳以内のクリーチャーやトラップの正確な現在位置を自動的に感知する。"
+          },
+          {
+            "name": "水泳：",
+            "desc": "アボレスは機会攻撃を誘発することなく、最大で自身の移動速度の半分まで水泳による移動を行う。"
+          },
+          {
+            "name": "粘ついた吸収(伝説的アクション2回分消費)：",
+            "desc": "アボレスから30㌳以内にいて、かつ粘液痘に罹患しているクリーチャー1体は10(3d6)［酸］ダメージを受け、アボレスはそのクリーチャーが受けたダメージと同じだけのヒット・ポイントを回復する。"
+          }
+        ]
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "ba8b587b2839",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "e958eb388908",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "e90bd83998a8",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "1a59d85a9b2a",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "heading",
+                      "id": "f9c82a1b1a2b",
+                      "properties": [
+                        "Challenge"
+                      ],
+                      "size": 5,
+                      "fallback": "-"
+                    },
+                    {
+                      "type": "inline",
+                      "id": "ab5b9bb80869",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "c99bfa2a3ae9",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "79db0b6baab8",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "c80aa85939fb",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "challenge"
+                  ],
+                  "conditioned": true,
+                  "separator": " "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "4b39da6adb8b",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "c9984a395b58",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "8949c90a0849",
+              "properties": [
+                "AC"
+              ],
+              "display": "AC",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "4b0919980b6b",
+              "properties": [
+                "hp"
+              ],
+              "display": "ヒット・ポイント",
+              "dice": false,
+              "diceProperty": "",
+              "diceCallback": "",
+              "callback": "",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e94b8afafa6b",
+              "display": "移動速度",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "79180ac87b89",
+              "properties": [
+                "perception"
+              ],
+              "fallback": "-",
+              "display": "〈知覚〉："
+            },
+            {
+              "type": "property",
+              "id": "28da2ab9b91a",
+              "display": "〈隠密〉：",
+              "properties": [
+                "hide"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "d9194b38f98b",
+              "display": "抵抗",
+              "properties": [
+                "resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e97a0b3b193a",
+              "display": "完全耐性",
+              "properties": [
+                "immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "38b9097928c8",
+              "properties": [
+                "vulnerability"
+              ],
+              "fallback": "-",
+              "display": "脆弱性",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "8a99fa29fbba",
+              "properties": [
+                "sense"
+              ],
+              "fallback": "-",
+              "display": "感覚",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "382b7a5969da",
+              "display": "言語",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "b8086a8a2858",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "【筋】",
+            "【敏】",
+            "【耐】",
+            "【知】",
+            "【判】",
+            "【魅】"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "e8ea59788918",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "896b89a9f97b",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "a85a396af929",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "7a781a9bd939",
+          "properties": [
+            "actions"
+          ],
+          "heading": "アクション",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "6989b8d96b9b",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "ボーナス・アクション",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "7838484b78aa",
+          "properties": [
+            "legendary_actions"
+          ],
+          "fallback": "-",
+          "heading": "伝説的アクション",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "b87979d83998",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "リアクション",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "d818d8dbebb8",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "ebaa7b4869b9",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "name": "BFRD",
+      "id": "c9790baa7aeb"
+    }
+  ],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/",
+    "bestiary"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

@@ -1,0 +1,30 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Challengerate": "number",
+    "Monstertype": "multitext",
+    "Size": "multitext",
+    "Subrace": "multitext",
+    "Alignment": "multitext",
+    "言語": "multitext",
+    "出典文書": "multitext",
+    "システム": "multitext",
+    "データタイプ": "multitext",
+    "ベース種族": "multitext",
+    "クリーチャー種別": "multitext",
+    "ベースクラス": "multitext",
+    "【筋】修正値": "text",
+    "【知】修正値": "text",
+    "【耐】修正値": "text",
+    "【敏】修正値": "text",
+    "【判】修正値": "text",
+    "【魅】修正値": "text",
+    "魔法のアイテムの分類": "multitext",
+    "同調": "multitext",
+    "HP": "number",
+    "脅威度": "text",
+    "アート": "text"
+  }
+}

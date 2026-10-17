@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "f2879971bc5d02d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e09e477d57b8d65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8157b7df8a29f982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/生命の領域.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "生命の領域"
+            }
+          },
+          {
+            "id": "d485a98501c39a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "ebe1e50e76502320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5E私家訳DB/基本モジュール/SRD5.2/クラス/クレリック.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "クレリック"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "683f47390976e938",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bef0bf9444f05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba805576c57376b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c8404e08de74b731",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "8c5fef1f0fde9c85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bc1664861ebdc1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec4e0c1f5772f346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dca0eeb338df4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "804c77c19ce3bdc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5E私家訳DBver0.6/基本モジュール/5ESRD/クリーチャー/モンスター/た行/ドラゴン/ブラック・ドラゴン/ブラック・ドラゴン・ワームリング.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ブラック・ドラゴン・ワームリングからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "ab72fdda6da141b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b92404e5b88870ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5E私家訳DBver0.6/その他/設定済みサンプルデータベース.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "設定済みサンプルデータベースへのバックリンク"
+            }
+          },
+          {
+            "id": "2f3c0ded6333586c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5E私家訳DBver0.6/その他/設定済みサンプルデータベース.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "設定済みサンプルデータベースのアウトライン"
+            }
+          },
+          {
+            "id": "aa46d8c6282612b5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "7780b9b8009e2d5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "5E私家訳DBver0.6/基本モジュール/5ESRD/クラス/バード.md"
+              },
+              "icon": "lucide-info",
+              "title": "バードのファイルプロパティ"
+            }
+          },
+          {
+            "id": "fc43d5cf5d0fb9fe",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "13beb3bfe1802cbb",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:パブリッシュによる変更の公開…": false,
+      "bases:新規ベースを作成": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "random-note:ランダムノートを開く": false,
+      "dbfolder:Create a new database table": false,
+      "simple-dice-roller:Average all dice": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "flowershow:Publish with Flowershow": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "dba805576c57376b",
+  "lastOpenFiles": [
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/1.ゲームのプレイ👷.md",
+    "README.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/2.キャラクター作成.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス/クレリック.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス/バーバリアン.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス/バード.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/3.クラス👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/狂戦士.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/生命の領域.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/4.キャラクターの起源.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/13.モンスターA～Z👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/11.モンスター👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/10.魔法のアイテム👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/8.ルール用語集👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/9.ゲームプレイ・ツールボックス👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/6.装備👷.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/7.呪文.md",
+    "7.呪文.md",
+    "無題のファイル 1.md",
+    "無題のファイル 2.md",
+    "無題のファイル.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/5.特技.md",
+    "5E私家訳DBver0.7/基本モジュール/5ESRD/クラス/クレリック.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス/知の楽派.md",
+    "5E私家訳DBver0.7/基本モジュール/5ESRD/サブクラス/生命の領域.md",
+    "5E私家訳DBver0.7/基本モジュール/5ESRD/サブクラス/シーフ.md",
+    "5E私家訳DB/基本モジュール/SRD5.2/サブクラス",
+    "5E私家訳DB/基本モジュール/SRD5.2/特技/偉業の証特技",
+    "5E私家訳DB/基本モジュール/SRD5.2/特技/戦闘スタイル特技",
+    "5E私家訳DB/基本モジュール/SRD5.2/特技/共通特技",
+    "5E私家訳DB/基本モジュール/SRD5.2/特技/起源特技",
+    "5E私家訳DB/基本モジュール/SRD5.2/特技",
+    "5E私家訳DB/基本モジュール/SRD5.2/SRD5.2本文/無題のフォルダ",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス/無題のフォルダ",
+    "5E私家訳DB/基本モジュール/SRD5.2/クラス",
+    "5E私家訳DB/基本モジュール/SRD5.2/無題のフォルダ",
+    "物置/無題のフォルダ/Pasted image 20260824134147.png",
+    "物置/無題のフォルダ/Pasted image 20260824133956.png",
+    "物置/無題のフォルダ/Pasted image 20260824133451.png",
+    "物置/無題のフォルダ/Pasted image 20260608131803.png",
+    "5E私家訳DBver0.7/アート/snake.jpg",
+    "5E私家訳DBver0.7/アート/Raven.jpg",
+    "作業用フォルダ(更新時に移動)/魔術師の塔一階.png",
+    "5E私家訳DBver0.6/アート/spider-alt.png",
+    "Pasted image 20260213211803.png",
+    "candle-light (2).png",
+    "5E私家訳DBver0.5/DBtest/無題のファイル.canvas",
+    "無題のファイル.canvas"
+  ]
+}

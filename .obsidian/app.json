@@ -1,0 +1,16 @@
+{
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "useTab": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "showLineNumber": true
+}

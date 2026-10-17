@@ -1,0 +1,18 @@
+/* remove text indent in source-view */
+.markdown-source-view:not(.is-live-preview) .cm-line{
+	text-indent: 0 !important;
+	padding-inline-start: 0 !important;
+}
+/* force plain-text-like view in preview-view p */
+.markdown-preview-view p{
+	white-space:pre-line;
+}
+
+/* 段落インデント */ 
+.cm-line { 
+          text-indent: 0 !important; 
+          padding-inline-start: 0 !important;
+} 
+.mod-cm6 .HyperMD-list-line.cm-line {
+    display: flex; 
+}
